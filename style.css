@@ -8,5 +8,5 @@ body {
   box-sizing: border-box;
 }
 img {
-  transform: rotateZ(5);
+  transform: rotateZ(-90deg) translateY(200px) scale(2);
 }
