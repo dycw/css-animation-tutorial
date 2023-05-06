@@ -1,3 +1,3 @@
-# `template-generic`
+# CSS Animation Tutorial (The Net Ninja)
 
-Template for generic repositories
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5
